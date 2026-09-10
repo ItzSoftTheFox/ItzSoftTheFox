@@ -1,0 +1,10 @@
+Generated with the built-in image_gen tool.
+The PNG is static; checkpoint.svg supplies the animated accent below it.
+
+Use case: stylized-concept
+Asset type: finished ultra-wide GitHub profile hero banner, 3:1 aspect ratio.
+Primary request: sophisticated Re:Zero Natsuki Subaru themed banner for ItzSoftTheFox, Return by Death / another attempt theme.
+Subject: recognizable Natsuki Subaru, short spiky black hair, brown eyes, distinctive black white and orange tracksuit, determined slightly weary expression, upper body portrait on right third, beautifully drawn anime key visual.
+Scene: near-black purple atmospheric background, subtle violet mist, sparse tiny glowing orange embers, faint fractured circular checkpoint motif behind Subaru. Left half spacious and readable.
+Typography on left: large elegant bold clean white text exactly "ItzSoftTheFox". Under it smaller text exactly "Another loop. Another chance." Small orange eyebrow "RETURN BY DEATH". Bottom left tiny restrained monospace "CHECKPOINT: SAVED" and "NEXT ATTEMPT: READY".
+Professional art direction, restrained orange accents, cinematic violet rim light, deep blacks, polished sharp anime illustration, typography integrated with generous margins. Flat full-bleed banner only, no browser frame, no mockup, no watermarks, no extra characters, no gore.
